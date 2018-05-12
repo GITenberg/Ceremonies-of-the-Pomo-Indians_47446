@@ -1,10 +1,16 @@
 _repo: Ceremonies-of-the-Pomo-Indians_47446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47446-h/images/cover.jpg
 creator:
   author:
     agent_name: Barrett, Samuel Alfred
     gutenberg_agent_id: '41962'
     url: http://www.gutenberg.org/2009/agents/41962
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47446#Ceremonies-of-the-Pomo-Indians
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
